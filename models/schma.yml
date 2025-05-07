@@ -48,3 +48,17 @@ sources:
            - name: ship_cost
              description: shipping cost paid by Greenweez to the carrier/logistics provider
 
+       - name: adwords
+         identifier: raw_gz_adwords
+
+       - name: bing
+         identifier: raw_gz_bing
+
+       - name: criteo
+         identifier: raw_gz_criteo
+
+       - name: facebook
+         identifier: raw_gz_facebook
+        
+
+
